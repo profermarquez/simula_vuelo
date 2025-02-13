@@ -11,4 +11,5 @@ pip install pygame numpy cmaes
 
 # Ejecución simulacion si cmaes y con cmaes
 py simulacion_ala.py
+
 py simulacion_ala_cmaes.py
